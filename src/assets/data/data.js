@@ -55,7 +55,7 @@ export const data = {
     },
     {
       id: 2,
-      image: "src/assets/images/IMG_1289.JPG",
+      image: "src/assets/images/IMG_1333.JPG",
     },
     {
       id: 3,
@@ -71,7 +71,7 @@ export const data = {
     },
     {
       id: 6,
-      image: "src/assets/images/IMG_1333.JPG",
+      image: "src/assets/images/IMG_1289.JPG",
     },
   ],
 
